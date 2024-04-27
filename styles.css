@@ -16,11 +16,13 @@ body {
   align-items: center;
   box-sizing: border-box;
   padding: 16px;
+  border-radius: 10px;
 }
 
 .component img {
   width: 288px;
   height: 288px;
+  border-radius: 10px;
 }
 
 h1 {
