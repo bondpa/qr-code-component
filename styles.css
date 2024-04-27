@@ -22,3 +22,17 @@ body {
   width: 288px;
   height: 288px;
 }
+
+h1 {
+  font-family: Outfit, sans-serif;
+  text-align: center;
+  font-size: 22px;
+}
+
+p {
+  width: 256px;
+  color: hsl(220, 15%, 55%);
+  font-family: Outfit, sans-serif;
+  text-align: center;
+  font-size: 15px;
+}
